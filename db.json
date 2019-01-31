@@ -1,0 +1,40 @@
+{
+  "drone": [
+    {
+      "droneId": 1234,
+      "missionId": 1234
+    }
+  ],
+  "waypoints": [
+    {
+      "longitude": 11.957375,
+      "latitude": 57.714272
+    },
+    {
+      "longitude": 11.958375,
+      "latitude": 57.714272
+    },
+    {
+      "longitude": 11.959375,
+      "latitude": 57.714272
+    }
+  ],
+  "pointOfInterest": [
+    {
+      "longitude": 11.999375,
+      "latitude": 57.714272
+    }
+  ],
+  "cameraStreamProperties": [
+    {
+      "cameraType": "RGB",
+      "on": true,
+      "streamType": "1080p"
+    },
+    {
+      "cameraType": "Infrared",
+      "on": false,
+      "streamType": "480p"
+    }
+  ]
+}
